@@ -1,0 +1,7 @@
+/Release/
+/core/
+/.settings/
+/spec.d/
+.cproject
+.project
+.sproject
